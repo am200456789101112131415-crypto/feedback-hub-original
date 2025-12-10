@@ -41,3 +41,6 @@ This README is intentionally simple so that it is easy to modify and conflict wi
 
 You may add a section like this during the assignment:
 
+## Student Contribution
+
+This section was added from a feature branch as part of the Git workflow assignment.
