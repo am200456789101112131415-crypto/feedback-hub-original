@@ -40,4 +40,7 @@ This README is intentionally simple so that it is easy to modify and conflict wi
 ## Example Student Section
 
 You may add a section like this during the assignment:
+## Student Contribution
+
+This text is from the original repository (crypto account) to create a merge conflict.
 
