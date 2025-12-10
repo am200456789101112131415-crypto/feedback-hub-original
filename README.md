@@ -47,3 +47,6 @@ This text is from the original repository (crypto account) to create a merge con
 This line is intentionally different to create a merge conflict.
 
 
+## Student Contribution
+
+This section was added from a feature branch as part of the Git workflow assignment.
