@@ -43,4 +43,7 @@ You may add a section like this during the assignment:
 ## Student Contribution
 
 This text is from the original repository (crypto account) to create a merge conflict.
+## Student Contribution (Original Repo Change)
+This line is intentionally different to create a merge conflict.
+
 
